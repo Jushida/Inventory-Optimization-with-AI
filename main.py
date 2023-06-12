@@ -4,10 +4,10 @@ import pandas as pd
 import tensorflow as tf
 from docplex.mp.model import Model
 
-server = '156.17.130.185:23333'
+server = 'server'
 database = 'AdventureWorks2014'
-username = 'BIStud'
-password = 'BIStudP@s'
+username = 'your_username'
+password = 'your_password'
 
 
 
